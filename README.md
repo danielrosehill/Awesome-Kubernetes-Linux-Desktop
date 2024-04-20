@@ -1,6 +1,6 @@
 # Awesome Kubernetes Resources For Linux Desktop Users
 
-![Kubernetes Tools For Linux Desktop Users](./images/Kubernetes Tools For Linux Desktop Users.png)
+![Kubernetes Tools For Linux Desktop Users](./images/header.png)
 
 If you're a Linux desktop user and are looking for GUIs (and CLIs) to manage a cluster, here are some resources that might be useful.
 
